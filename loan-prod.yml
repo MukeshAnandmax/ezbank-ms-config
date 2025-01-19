@@ -4,7 +4,7 @@ build:
   version: "1.0"
 
 loan:
-  message: "Welcome to EZBank Loans related prod File APIs "
+  message: "Welcome to EZBank Loans related prod git file APIs "
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "aishwarya@eazybank.com"
