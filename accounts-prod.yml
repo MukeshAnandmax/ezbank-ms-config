@@ -4,7 +4,7 @@ build:
   version: "1.2"
 
 accounts:
-  message: "Welcome to EZBank accounts related to prod file APIs "
+  message: "Welcome to EZBank accounts related to prod git file APIs "
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "{cipher}45f4d4ff804afbbea90b334bb2b05d60706c66698325c144be8d82c8eb16da062f8aa1a5aaab044e33cc7ec6cb31efa1"
