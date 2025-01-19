@@ -4,7 +4,7 @@ build:
   version: "1.0"
 
 loan:
-  message: "Welcome to EZBank Loans related prod git-file APIs (webhook)"
+  message: "Welcome to EZBank Loans related prod Docker git-file APIs (webhook)"
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "aishwarya@eazybank.com"
